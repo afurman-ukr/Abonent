@@ -81,7 +81,7 @@ private ArrayList<Abonent> Abonents = new ArrayList<Abonent>(20);
       for (Abonent ab:admin.getAbonents()) {
           System.out.println(ab);
       }
-            System.out.println("github version /////////////////////////////////////////////////////////////////////");
+            System.out.println("github version ////////////////////////////////////////");
       // check change the file
   }
   }
