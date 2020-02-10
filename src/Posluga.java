@@ -1,5 +1,5 @@
-import com.sun.org.apache.xerces.internal.parsers.DTDParser;
-import com.sun.org.apache.xml.internal.dtm.ref.DTMNodeList;
+//import com.sun.org.apache.xerces.internal.parsers.DTDParser;
+//import com.sun.org.apache.xml.internal.dtm.ref.DTMNodeList;
 
 public class Posluga {
     private int id;
